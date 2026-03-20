@@ -1,0 +1,3115 @@
+[
+  {
+    "nim": "A001",
+    "nama": "Mahasiswa_01",
+    "kelas": "B",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:15:00"
+          },
+          {
+            "jenis": "baca_materi",
+            "halaman": 5,
+            "waktu_mulai": "08:20:00",
+            "waktu_selesai": "08:30:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-02",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:36:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-03",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:16:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 73,
+            "waktu_mulai": "08:21:00",
+            "waktu_selesai": "08:36:00"
+          },
+          {
+            "jenis": "baca_materi",
+            "halaman": 12,
+            "waktu_mulai": "08:41:00",
+            "waktu_selesai": "08:51:00"
+          },
+          {
+            "jenis": "forum_diskusi",
+            "waktu_mulai": "08:56:00",
+            "waktu_selesai": "09:01:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A002",
+    "nama": "Mahasiswa_02",
+    "kelas": "C",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:18:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A003",
+    "nama": "Mahasiswa_03",
+    "kelas": "A",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:20:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "waktu_mulai": "08:25:00",
+            "waktu_selesai": "08:40:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-02",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:20:00"
+          },
+          {
+            "jenis": "baca_materi",
+            "halaman": 11,
+            "waktu_mulai": "08:25:00",
+            "waktu_selesai": "08:35:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "waktu_mulai": "08:40:00",
+            "waktu_selesai": "08:55:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-03",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:15:00"
+          },
+          {
+            "jenis": "baca_materi",
+            "halaman": 11,
+            "waktu_mulai": "08:20:00",
+            "waktu_selesai": "08:30:00"
+          },
+          {
+            "jenis": "forum_diskusi",
+            "waktu_mulai": "08:35:00",
+            "waktu_selesai": "08:40:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-04",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:20:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A004",
+    "nama": "Mahasiswa_04",
+    "kelas": "B",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:46:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-02",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "09:20:00"
+          },
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "09:25:00",
+            "waktu_selesai": "10:28:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-03",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:53:00"
+          },
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:58:00",
+            "waktu_selesai": "10:20:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-04",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "09:18:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-05",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:50:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A005",
+    "nama": "Mahasiswa_05",
+    "kelas": "C",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:44:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 95,
+            "waktu_mulai": "08:49:00",
+            "waktu_selesai": "09:04:00"
+          },
+          {
+            "jenis": "baca_materi",
+            "halaman": 8,
+            "waktu_mulai": "09:09:00",
+            "waktu_selesai": "09:19:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-02",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:39:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 62,
+            "waktu_mulai": "08:44:00",
+            "waktu_selesai": "08:59:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-03",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:17:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 80,
+            "waktu_mulai": "08:22:00",
+            "waktu_selesai": "08:37:00"
+          },
+          {
+            "jenis": "baca_materi",
+            "halaman": 10,
+            "waktu_mulai": "08:42:00",
+            "waktu_selesai": "08:52:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-04",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:44:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 69,
+            "waktu_mulai": "08:49:00",
+            "waktu_selesai": "09:04:00"
+          },
+          {
+            "jenis": "baca_materi",
+            "halaman": 6,
+            "waktu_mulai": "09:09:00",
+            "waktu_selesai": "09:19:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-05",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:32:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 87,
+            "waktu_mulai": "08:37:00",
+            "waktu_selesai": "08:52:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A006",
+    "nama": "Mahasiswa_06",
+    "kelas": "A",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:09:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A007",
+    "nama": "Mahasiswa_07",
+    "kelas": "B",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:19:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-02",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:20:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 50,
+            "waktu_mulai": "08:25:00",
+            "waktu_selesai": "08:40:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A008",
+    "nama": "Mahasiswa_08",
+    "kelas": "C",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "09:23:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-02",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "09:29:00"
+          },
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "09:34:00",
+            "waktu_selesai": "10:55:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-03",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "09:07:00"
+          },
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "09:12:00",
+            "waktu_selesai": "10:02:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-04",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "09:12:00"
+          },
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "09:17:00",
+            "waktu_selesai": "10:45:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-05",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "09:20:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A009",
+    "nama": "Mahasiswa_09",
+    "kelas": "A",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:19:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 70,
+            "waktu_mulai": "08:24:00",
+            "waktu_selesai": "08:39:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-02",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:31:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-03",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:18:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-04",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:24:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 75,
+            "waktu_mulai": "08:29:00",
+            "waktu_selesai": "08:44:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A010",
+    "nama": "Mahasiswa_10",
+    "kelas": "B",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:20:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A011",
+    "nama": "Mahasiswa_11",
+    "kelas": "C",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:20:00"
+          },
+          {
+            "jenis": "baca_materi",
+            "halaman": 6,
+            "waktu_mulai": "08:25:00",
+            "waktu_selesai": "08:35:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 63,
+            "waktu_mulai": "08:40:00",
+            "waktu_selesai": "08:55:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-02",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:29:00"
+          },
+          {
+            "jenis": "baca_materi",
+            "halaman": 7,
+            "waktu_mulai": "08:34:00",
+            "waktu_selesai": "08:44:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 57,
+            "waktu_mulai": "08:49:00",
+            "waktu_selesai": "09:04:00"
+          },
+          {
+            "jenis": "forum_diskusi",
+            "waktu_mulai": "09:09:00",
+            "waktu_selesai": "09:14:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-03",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:20:00"
+          },
+          {
+            "jenis": "baca_materi",
+            "halaman": 2,
+            "waktu_mulai": "08:25:00",
+            "waktu_selesai": "08:35:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 64,
+            "waktu_mulai": "08:40:00",
+            "waktu_selesai": "08:55:00"
+          },
+          {
+            "jenis": "forum_diskusi",
+            "waktu_mulai": "09:00:00",
+            "waktu_selesai": "09:05:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-04",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:20:00"
+          },
+          {
+            "jenis": "baca_materi",
+            "waktu_mulai": "08:25:00",
+            "waktu_selesai": "08:35:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 86,
+            "waktu_mulai": "08:40:00",
+            "waktu_selesai": "08:55:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A012",
+    "nama": "Mahasiswa_12",
+    "kelas": "A",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "09:30:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-02",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:52:00"
+          },
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:57:00",
+            "waktu_selesai": "09:43:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 53,
+            "waktu_mulai": "09:48:00",
+            "waktu_selesai": "10:03:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-03",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "09:07:00"
+          },
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "09:12:00",
+            "waktu_selesai": "10:18:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-04",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "09:23:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-05",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:43:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A013",
+    "nama": "Mahasiswa_13",
+    "kelas": "B",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:40:00"
+          },
+          {
+            "jenis": "baca_materi",
+            "halaman": 6,
+            "waktu_mulai": "08:45:00",
+            "waktu_selesai": "08:55:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-02",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:19:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 77,
+            "waktu_mulai": "08:24:00",
+            "waktu_selesai": "08:39:00"
+          },
+          {
+            "jenis": "baca_materi",
+            "halaman": 4,
+            "waktu_mulai": "08:44:00",
+            "waktu_selesai": "08:54:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-03",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:42:00"
+          },
+          {
+            "jenis": "baca_materi",
+            "halaman": 13,
+            "waktu_mulai": "08:47:00",
+            "waktu_selesai": "08:57:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-04",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:41:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 65,
+            "waktu_mulai": "08:46:00",
+            "waktu_selesai": "09:01:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-05",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:20:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 90,
+            "waktu_mulai": "08:25:00",
+            "waktu_selesai": "08:40:00"
+          },
+          {
+            "jenis": "baca_materi",
+            "halaman": 9,
+            "waktu_mulai": "08:45:00",
+            "waktu_selesai": "08:55:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A014",
+    "nama": "Mahasiswa_14",
+    "kelas": "C",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:17:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 52,
+            "waktu_mulai": "08:22:00",
+            "waktu_selesai": "08:37:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A015",
+    "nama": "Mahasiswa_15",
+    "kelas": "A",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 85,
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:15:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-02",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:20:00"
+          },
+          {
+            "jenis": "baca_materi",
+            "waktu_mulai": "08:25:00",
+            "waktu_selesai": "08:35:00"
+          },
+          {
+            "jenis": "forum_diskusi",
+            "waktu_mulai": "08:40:00",
+            "waktu_selesai": "08:45:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-03",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:20:00"
+          },
+          {
+            "jenis": "baca_materi",
+            "halaman": 10,
+            "waktu_mulai": "08:25:00",
+            "waktu_selesai": "08:35:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 55,
+            "waktu_mulai": "08:40:00",
+            "waktu_selesai": "08:55:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A016",
+    "nama": "Mahasiswa_16",
+    "kelas": "B",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "09:18:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 67,
+            "waktu_mulai": "09:23:00",
+            "waktu_selesai": "09:38:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-02",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "09:05:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 68,
+            "waktu_mulai": "09:10:00",
+            "waktu_selesai": "09:25:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-03",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "09:17:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-04",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "09:06:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-05",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:56:00"
+          },
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "09:01:00",
+            "waktu_selesai": "09:54:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A017",
+    "nama": "Mahasiswa_17",
+    "kelas": "C",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:22:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 68,
+            "waktu_mulai": "08:27:00",
+            "waktu_selesai": "08:42:00"
+          },
+          {
+            "jenis": "forum_diskusi",
+            "waktu_mulai": "08:47:00",
+            "waktu_selesai": "08:52:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-02",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:25:00"
+          },
+          {
+            "jenis": "forum_diskusi",
+            "waktu_mulai": "08:30:00",
+            "waktu_selesai": "08:35:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-03",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:34:00"
+          },
+          {
+            "jenis": "forum_diskusi",
+            "waktu_mulai": "08:39:00",
+            "waktu_selesai": "08:44:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-04",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:21:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 68,
+            "waktu_mulai": "08:26:00",
+            "waktu_selesai": "08:41:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-05",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:43:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 78,
+            "waktu_mulai": "08:48:00",
+            "waktu_selesai": "09:03:00"
+          },
+          {
+            "jenis": "baca_materi",
+            "halaman": 11,
+            "waktu_mulai": "09:08:00",
+            "waktu_selesai": "09:18:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A018",
+    "nama": "Mahasiswa_18",
+    "kelas": "A",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:14:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A019",
+    "nama": "Mahasiswa_19",
+    "kelas": "B",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "baca_materi",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:10:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 67,
+            "waktu_mulai": "08:15:00",
+            "waktu_selesai": "08:30:00"
+          },
+          {
+            "jenis": "forum_diskusi",
+            "waktu_mulai": "08:35:00",
+            "waktu_selesai": "08:40:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-02",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:20:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A020",
+    "nama": "Mahasiswa_20",
+    "kelas": "C",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:43:00"
+          },
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:48:00",
+            "waktu_selesai": "09:33:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-02",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:42:00"
+          },
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:47:00",
+            "waktu_selesai": "09:27:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-03",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "09:20:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-04",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "09:27:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-05",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "09:15:00"
+          },
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "09:20:00",
+            "waktu_selesai": "10:00:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 70,
+            "waktu_mulai": "10:05:00",
+            "waktu_selesai": "10:20:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A021",
+    "nama": "Mahasiswa_21",
+    "kelas": "A",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:32:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 83,
+            "waktu_mulai": "08:37:00",
+            "waktu_selesai": "08:52:00"
+          },
+          {
+            "jenis": "forum_diskusi",
+            "waktu_mulai": "08:57:00",
+            "waktu_selesai": "09:02:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-02",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:19:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 83,
+            "waktu_mulai": "08:24:00",
+            "waktu_selesai": "08:39:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-03",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:42:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 82,
+            "waktu_mulai": "08:47:00",
+            "waktu_selesai": "09:02:00"
+          },
+          {
+            "jenis": "baca_materi",
+            "halaman": 6,
+            "waktu_mulai": "09:07:00",
+            "waktu_selesai": "09:17:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-04",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:26:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A022",
+    "nama": "Mahasiswa_22",
+    "kelas": "B",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:12:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A023",
+    "nama": "Mahasiswa_23",
+    "kelas": "C",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "baca_materi",
+            "halaman": 7,
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:10:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-02",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:25:00"
+          },
+          {
+            "jenis": "baca_materi",
+            "halaman": 3,
+            "waktu_mulai": "08:30:00",
+            "waktu_selesai": "08:40:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "waktu_mulai": "08:45:00",
+            "waktu_selesai": "09:00:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A024",
+    "nama": "Mahasiswa_24",
+    "kelas": "A",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "09:09:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-02",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:54:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 46,
+            "waktu_mulai": "08:59:00",
+            "waktu_selesai": "09:14:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-03",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "09:01:00"
+          },
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "09:06:00",
+            "waktu_selesai": "10:03:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-04",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "09:02:00"
+          },
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "09:07:00",
+            "waktu_selesai": "10:28:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-05",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:41:00"
+          },
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:46:00",
+            "waktu_selesai": "09:33:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A025",
+    "nama": "Mahasiswa_25",
+    "kelas": "B",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:20:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 76,
+            "waktu_mulai": "08:25:00",
+            "waktu_selesai": "08:40:00"
+          },
+          {
+            "jenis": "baca_materi",
+            "halaman": 12,
+            "waktu_mulai": "08:45:00",
+            "waktu_selesai": "08:55:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-02",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:38:00"
+          },
+          {
+            "jenis": "baca_materi",
+            "halaman": 11,
+            "waktu_mulai": "08:43:00",
+            "waktu_selesai": "08:53:00"
+          },
+          {
+            "jenis": "forum_diskusi",
+            "waktu_mulai": "08:58:00",
+            "waktu_selesai": "09:03:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-03",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:43:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 76,
+            "waktu_mulai": "08:48:00",
+            "waktu_selesai": "09:03:00"
+          },
+          {
+            "jenis": "baca_materi",
+            "halaman": 9,
+            "waktu_mulai": "09:08:00",
+            "waktu_selesai": "09:18:00"
+          },
+          {
+            "jenis": "forum_diskusi",
+            "waktu_mulai": "09:23:00",
+            "waktu_selesai": "09:28:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-04",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:44:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-05",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:38:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 83,
+            "waktu_mulai": "08:43:00",
+            "waktu_selesai": "08:58:00"
+          },
+          {
+            "jenis": "baca_materi",
+            "halaman": 13,
+            "waktu_mulai": "09:03:00",
+            "waktu_selesai": "09:13:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A026",
+    "nama": "Mahasiswa_26",
+    "kelas": "C",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:08:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-02",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:14:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A027",
+    "nama": "Mahasiswa_27",
+    "kelas": "A",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:20:00"
+          },
+          {
+            "jenis": "baca_materi",
+            "waktu_mulai": "08:25:00",
+            "waktu_selesai": "08:35:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 61,
+            "waktu_mulai": "08:40:00",
+            "waktu_selesai": "08:55:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-02",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:10:00"
+          },
+          {
+            "jenis": "baca_materi",
+            "waktu_mulai": "08:15:00",
+            "waktu_selesai": "08:25:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-03",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:20:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 60,
+            "waktu_mulai": "08:25:00",
+            "waktu_selesai": "08:40:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-04",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:49:00"
+          },
+          {
+            "jenis": "baca_materi",
+            "halaman": 5,
+            "waktu_mulai": "08:54:00",
+            "waktu_selesai": "09:04:00"
+          },
+          {
+            "jenis": "forum_diskusi",
+            "waktu_mulai": "09:09:00",
+            "waktu_selesai": "09:14:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A028",
+    "nama": "Mahasiswa_28",
+    "kelas": "B",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:49:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 47,
+            "waktu_mulai": "08:54:00",
+            "waktu_selesai": "09:09:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-02",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "09:19:00"
+          },
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "09:24:00",
+            "waktu_selesai": "10:53:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 53,
+            "waktu_mulai": "10:58:00",
+            "waktu_selesai": "11:13:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-03",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "09:25:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-04",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "09:05:00"
+          },
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "09:10:00",
+            "waktu_selesai": "10:05:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 62,
+            "waktu_mulai": "10:10:00",
+            "waktu_selesai": "10:25:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-05",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "09:28:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A029",
+    "nama": "Mahasiswa_29",
+    "kelas": "C",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:39:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 71,
+            "waktu_mulai": "08:44:00",
+            "waktu_selesai": "08:59:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-02",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:29:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 75,
+            "waktu_mulai": "08:34:00",
+            "waktu_selesai": "08:49:00"
+          },
+          {
+            "jenis": "forum_diskusi",
+            "waktu_mulai": "08:54:00",
+            "waktu_selesai": "08:59:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-03",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:19:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A030",
+    "nama": "Mahasiswa_30",
+    "kelas": "A",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:19:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-02",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:18:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A031",
+    "nama": "Mahasiswa_31",
+    "kelas": "B",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:20:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 90,
+            "waktu_mulai": "08:25:00",
+            "waktu_selesai": "08:40:00"
+          },
+          {
+            "jenis": "forum_diskusi",
+            "waktu_mulai": "08:45:00",
+            "waktu_selesai": "08:50:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-02",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:20:00"
+          },
+          {
+            "jenis": "baca_materi",
+            "waktu_mulai": "08:25:00",
+            "waktu_selesai": "08:35:00"
+          },
+          {
+            "jenis": "forum_diskusi",
+            "waktu_mulai": "08:40:00",
+            "waktu_selesai": "08:45:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-03",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:15:00"
+          },
+          {
+            "jenis": "baca_materi",
+            "waktu_mulai": "08:20:00",
+            "waktu_selesai": "08:30:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-04",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:20:00"
+          },
+          {
+            "jenis": "baca_materi",
+            "waktu_mulai": "08:25:00",
+            "waktu_selesai": "08:35:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "waktu_mulai": "08:40:00",
+            "waktu_selesai": "08:55:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A032",
+    "nama": "Mahasiswa_32",
+    "kelas": "C",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "09:28:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-02",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:40:00"
+          },
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:45:00",
+            "waktu_selesai": "09:47:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-03",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "09:06:00"
+          },
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "09:11:00",
+            "waktu_selesai": "10:25:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-04",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "09:11:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-05",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "09:11:00"
+          },
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "09:16:00",
+            "waktu_selesai": "09:57:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A033",
+    "nama": "Mahasiswa_33",
+    "kelas": "A",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:38:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 89,
+            "waktu_mulai": "08:43:00",
+            "waktu_selesai": "08:58:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-02",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:32:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 85,
+            "waktu_mulai": "08:37:00",
+            "waktu_selesai": "08:52:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-03",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:17:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 68,
+            "waktu_mulai": "08:22:00",
+            "waktu_selesai": "08:37:00"
+          },
+          {
+            "jenis": "forum_diskusi",
+            "waktu_mulai": "08:42:00",
+            "waktu_selesai": "08:47:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-04",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:23:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 73,
+            "waktu_mulai": "08:28:00",
+            "waktu_selesai": "08:43:00"
+          },
+          {
+            "jenis": "baca_materi",
+            "halaman": 8,
+            "waktu_mulai": "08:48:00",
+            "waktu_selesai": "08:58:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-05",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:27:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 86,
+            "waktu_mulai": "08:32:00",
+            "waktu_selesai": "08:47:00"
+          },
+          {
+            "jenis": "baca_materi",
+            "halaman": 4,
+            "waktu_mulai": "08:52:00",
+            "waktu_selesai": "09:02:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-06",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:38:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 82,
+            "waktu_mulai": "08:43:00",
+            "waktu_selesai": "08:58:00"
+          },
+          {
+            "jenis": "baca_materi",
+            "halaman": 4,
+            "waktu_mulai": "09:03:00",
+            "waktu_selesai": "09:13:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A034",
+    "nama": "Mahasiswa_34",
+    "kelas": "B",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:05:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A035",
+    "nama": "Mahasiswa_35",
+    "kelas": "C",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "kerjakan_quiz",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:15:00"
+          },
+          {
+            "jenis": "forum_diskusi",
+            "waktu_mulai": "08:20:00",
+            "waktu_selesai": "08:25:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-02",
+        "aktivitas": [
+          {
+            "jenis": "baca_materi",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:10:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 57,
+            "waktu_mulai": "08:15:00",
+            "waktu_selesai": "08:30:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A036",
+    "nama": "Mahasiswa_36",
+    "kelas": "A",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:59:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 40,
+            "waktu_mulai": "09:04:00",
+            "waktu_selesai": "09:19:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-02",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "09:16:00"
+          },
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "09:21:00",
+            "waktu_selesai": "10:44:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-03",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "09:05:00"
+          },
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "09:10:00",
+            "waktu_selesai": "10:35:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-04",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:46:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-05",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "09:23:00"
+          },
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "09:28:00",
+            "waktu_selesai": "10:46:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A037",
+    "nama": "Mahasiswa_37",
+    "kelas": "B",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:26:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 83,
+            "waktu_mulai": "08:31:00",
+            "waktu_selesai": "08:46:00"
+          },
+          {
+            "jenis": "baca_materi",
+            "halaman": 13,
+            "waktu_mulai": "08:51:00",
+            "waktu_selesai": "09:01:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-02",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:42:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 91,
+            "waktu_mulai": "08:47:00",
+            "waktu_selesai": "09:02:00"
+          },
+          {
+            "jenis": "baca_materi",
+            "halaman": 8,
+            "waktu_mulai": "09:07:00",
+            "waktu_selesai": "09:17:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-03",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:41:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 69,
+            "waktu_mulai": "08:46:00",
+            "waktu_selesai": "09:01:00"
+          },
+          {
+            "jenis": "baca_materi",
+            "halaman": 14,
+            "waktu_mulai": "09:06:00",
+            "waktu_selesai": "09:16:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A038",
+    "nama": "Mahasiswa_38",
+    "kelas": "C",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:20:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-02",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:13:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A039",
+    "nama": "Mahasiswa_39",
+    "kelas": "A",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "baca_materi",
+            "halaman": 5,
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:10:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-02",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:20:00"
+          },
+          {
+            "jenis": "baca_materi",
+            "waktu_mulai": "08:25:00",
+            "waktu_selesai": "08:35:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "waktu_mulai": "08:40:00",
+            "waktu_selesai": "08:55:00"
+          },
+          {
+            "jenis": "forum_diskusi",
+            "waktu_mulai": "09:00:00",
+            "waktu_selesai": "09:05:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A040",
+    "nama": "Mahasiswa_40",
+    "kelas": "B",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "09:18:00"
+          },
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "09:23:00",
+            "waktu_selesai": "10:47:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-02",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "09:13:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-03",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:55:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-04",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "09:15:00"
+          },
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "09:20:00",
+            "waktu_selesai": "10:48:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-05",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "09:21:00"
+          },
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "09:26:00",
+            "waktu_selesai": "10:51:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A041",
+    "nama": "Mahasiswa_41",
+    "kelas": "C",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:17:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 85,
+            "waktu_mulai": "08:22:00",
+            "waktu_selesai": "08:37:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-02",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:33:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 95,
+            "waktu_mulai": "08:38:00",
+            "waktu_selesai": "08:53:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-03",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:38:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 82,
+            "waktu_mulai": "08:43:00",
+            "waktu_selesai": "08:58:00"
+          },
+          {
+            "jenis": "forum_diskusi",
+            "waktu_mulai": "09:03:00",
+            "waktu_selesai": "09:08:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A042",
+    "nama": "Mahasiswa_42",
+    "kelas": "A",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:12:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 46,
+            "waktu_mulai": "08:17:00",
+            "waktu_selesai": "08:32:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-02",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:15:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 57,
+            "waktu_mulai": "08:20:00",
+            "waktu_selesai": "08:35:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A043",
+    "nama": "Mahasiswa_43",
+    "kelas": "B",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:20:00"
+          },
+          {
+            "jenis": "baca_materi",
+            "halaman": 10,
+            "waktu_mulai": "08:25:00",
+            "waktu_selesai": "08:35:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 62,
+            "waktu_mulai": "08:40:00",
+            "waktu_selesai": "08:55:00"
+          },
+          {
+            "jenis": "forum_diskusi",
+            "waktu_mulai": "09:00:00",
+            "waktu_selesai": "09:05:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-02",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:20:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "waktu_mulai": "08:25:00",
+            "waktu_selesai": "08:40:00"
+          },
+          {
+            "jenis": "forum_diskusi",
+            "waktu_mulai": "08:45:00",
+            "waktu_selesai": "08:50:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-03",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:50:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 86,
+            "waktu_mulai": "08:55:00",
+            "waktu_selesai": "09:10:00"
+          },
+          {
+            "jenis": "forum_diskusi",
+            "waktu_mulai": "09:15:00",
+            "waktu_selesai": "09:20:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-04",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:20:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 57,
+            "waktu_mulai": "08:25:00",
+            "waktu_selesai": "08:40:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A044",
+    "nama": "Mahasiswa_44",
+    "kelas": "C",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "09:11:00"
+          },
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "09:16:00",
+            "waktu_selesai": "10:00:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-02",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:49:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 58,
+            "waktu_mulai": "08:54:00",
+            "waktu_selesai": "09:09:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-03",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:45:00"
+          },
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:50:00",
+            "waktu_selesai": "09:45:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 64,
+            "waktu_mulai": "09:50:00",
+            "waktu_selesai": "10:05:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-04",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "09:18:00"
+          },
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "09:23:00",
+            "waktu_selesai": "10:41:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-05",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "09:29:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A045",
+    "nama": "Mahasiswa_45",
+    "kelas": "A",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:44:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 87,
+            "waktu_mulai": "08:49:00",
+            "waktu_selesai": "09:04:00"
+          },
+          {
+            "jenis": "baca_materi",
+            "halaman": 12,
+            "waktu_mulai": "09:09:00",
+            "waktu_selesai": "09:19:00"
+          },
+          {
+            "jenis": "forum_diskusi",
+            "waktu_mulai": "09:24:00",
+            "waktu_selesai": "09:29:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-02",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:45:00"
+          },
+          {
+            "jenis": "forum_diskusi",
+            "waktu_mulai": "08:50:00",
+            "waktu_selesai": "08:55:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-03",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:21:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 65,
+            "waktu_mulai": "08:26:00",
+            "waktu_selesai": "08:41:00"
+          },
+          {
+            "jenis": "baca_materi",
+            "halaman": 5,
+            "waktu_mulai": "08:46:00",
+            "waktu_selesai": "08:56:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-04",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:20:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 88,
+            "waktu_mulai": "08:25:00",
+            "waktu_selesai": "08:40:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-05",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:16:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 78,
+            "waktu_mulai": "08:21:00",
+            "waktu_selesai": "08:36:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-06",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:36:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 76,
+            "waktu_mulai": "08:41:00",
+            "waktu_selesai": "08:56:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A046",
+    "nama": "Mahasiswa_46",
+    "kelas": "B",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:18:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 47,
+            "waktu_mulai": "08:23:00",
+            "waktu_selesai": "08:38:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A047",
+    "nama": "Mahasiswa_47",
+    "kelas": "C",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:20:00"
+          },
+          {
+            "jenis": "baca_materi",
+            "waktu_mulai": "08:25:00",
+            "waktu_selesai": "08:35:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-02",
+        "aktivitas": [
+          {
+            "jenis": "kerjakan_quiz",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:15:00"
+          },
+          {
+            "jenis": "forum_diskusi",
+            "waktu_mulai": "08:20:00",
+            "waktu_selesai": "08:25:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-03",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:20:00"
+          },
+          {
+            "jenis": "baca_materi",
+            "waktu_mulai": "08:25:00",
+            "waktu_selesai": "08:35:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 70,
+            "waktu_mulai": "08:40:00",
+            "waktu_selesai": "08:55:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-04",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:20:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A048",
+    "nama": "Mahasiswa_48",
+    "kelas": "A",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "09:28:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-02",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "09:16:00"
+          },
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "09:21:00",
+            "waktu_selesai": "10:03:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-03",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "09:10:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-04",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:57:00"
+          },
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "09:02:00",
+            "waktu_selesai": "09:53:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-05",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "09:20:00"
+          },
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "09:25:00",
+            "waktu_selesai": "10:36:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A049",
+    "nama": "Mahasiswa_49",
+    "kelas": "B",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:26:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 80,
+            "waktu_mulai": "08:31:00",
+            "waktu_selesai": "08:46:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-02",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:25:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 91,
+            "waktu_mulai": "08:30:00",
+            "waktu_selesai": "08:45:00"
+          },
+          {
+            "jenis": "baca_materi",
+            "halaman": 9,
+            "waktu_mulai": "08:50:00",
+            "waktu_selesai": "09:00:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-03",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:32:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 65,
+            "waktu_mulai": "08:37:00",
+            "waktu_selesai": "08:52:00"
+          },
+          {
+            "jenis": "baca_materi",
+            "halaman": 8,
+            "waktu_mulai": "08:57:00",
+            "waktu_selesai": "09:07:00"
+          },
+          {
+            "jenis": "forum_diskusi",
+            "waktu_mulai": "09:12:00",
+            "waktu_selesai": "09:17:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-04",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:39:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 92,
+            "waktu_mulai": "08:44:00",
+            "waktu_selesai": "08:59:00"
+          },
+          {
+            "jenis": "forum_diskusi",
+            "waktu_mulai": "09:04:00",
+            "waktu_selesai": "09:09:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-05",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:42:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 86,
+            "waktu_mulai": "08:47:00",
+            "waktu_selesai": "09:02:00"
+          },
+          {
+            "jenis": "baca_materi",
+            "halaman": 11,
+            "waktu_mulai": "09:07:00",
+            "waktu_selesai": "09:17:00"
+          }
+        ]
+      },
+      {
+        "tanggal": "2025-11-06",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:39:00"
+          },
+          {
+            "jenis": "kerjakan_quiz",
+            "skor": 88,
+            "waktu_mulai": "08:44:00",
+            "waktu_selesai": "08:59:00"
+          },
+          {
+            "jenis": "forum_diskusi",
+            "waktu_mulai": "09:04:00",
+            "waktu_selesai": "09:09:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nim": "A050",
+    "nama": "Mahasiswa_50",
+    "kelas": "C",
+    "log_harian": [
+      {
+        "tanggal": "2025-11-01",
+        "aktivitas": [
+          {
+            "jenis": "tonton_video",
+            "waktu_mulai": "08:00:00",
+            "waktu_selesai": "08:14:00"
+          }
+        ]
+      }
+    ]
+  }
+]
